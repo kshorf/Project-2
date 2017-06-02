@@ -1,12 +1,12 @@
-# _{Project-2}_
+# _Project-2_
 
-#### _{JavaScript and jQuery exercise}, {6/2/17}_
+#### _JavaScript and jQuery exercise, {6/2/17}_
 
-#### By _**{Kaden Shorf}**_
+#### By _**Kaden Shorf**_
 
 ## Description
 
-_{This website lets the user interact with the page and determine what clubs and activities she/he can attend on a disney cruise ship.}_
+_This website lets the user interact with the page and determine what clubs and activities she/he can attend on a disney cruise ship._
 
 ## Setup
 
@@ -15,18 +15,16 @@ _{This website lets the user interact with the page and determine what clubs and
 
 ## Known Bugs
 
-_{No bugs known at this time. }_
+_No bugs known at this time. _
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_If you have any questions email me at KmShorty@gmail.com._
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_Jquery was used aswell as basic JavaScript, html, and css._
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2017 **_Kaden shorf_**
